@@ -1,0 +1,10 @@
+@media (max-width: 540px){
+    .container{
+        display: flex;
+        flex-direction: column;
+    }
+    
+    .side-content{
+        order: 1;
+    }
+}
